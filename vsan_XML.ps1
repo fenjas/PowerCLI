@@ -1,4 +1,4 @@
-﻿# A PowerCLI script that retrieve VSAN realted info and outputs it in XML format.
+﻿# A PowerCLI script that retrieves VSAN info in XML format.
 # Jason Fenech (Aug 16)
 
 #----------------------------------------------------------[Libraries]-----------------------------------------------
