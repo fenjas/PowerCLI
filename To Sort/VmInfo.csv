@@ -1,0 +1,161 @@
+VM,Datacenter,Cluster,Hard Disk,Datastore,VMConfigFile,VMDKpath
+CS-CS-ESX,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] CS-CS-ESX/CS-CS-ESX.vmx,[SAN_Storage] CS-CS-ESX/CS-CS-ESX.vmdk
+CS-CS-HV12R2,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] CS-CS-HV12R2/CS-CS-HV12R2.vmx,[SAN_Storage] CS-CS-HV12R2/CS-CS-HV12R2_3.vmdk
+CS-LUP-ESX,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] CS-LUP-ESX/CS-LUP-ESX.vmx,[SAN_Storage] CS-LUP-ESX/CS-LUP-ESX.vmdk
+CS-LUP-HV12R2,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] CS-LUP-HV12R2/CS-LUP-HV12R2.vmx,[SAN_Storage] CS-LUP-HV12R2/CS-LUP-HV12R2_3.vmdk
+CS-MC-ESX,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] CS-MC-ESX/CS-MC-ESX.vmx,[SAN_Storage] CS-MC-ESX/CS-MC-ESX.vmdk
+CS-MC-HV12R2,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] CS-MC-HV12R2/CS-MC-HV12R2.vmx,[SAN_Storage] CS-MC-HV12R2/CS-MC-HV12R2_3.vmdk
+DAVBON1 2012R2 17.98,AltaroProduction,Cluster,Hard disk 1,16.120 Main Datastore,[16.120 Main Datastore] Windows 2012 R2 - David Bonnici/Windows 2012 R2 - David Bonnici.vmx,[16.120 Main Datastore] Windows 2012 R2 - David Bonnici/Windows 2012 R2 - David Bonnici_3.vmdk
+dev03-a1,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev03-a1/dev03-a1.vmx,[FREENAS SSD] dev03-a1/dev03-a1.vmdk
+dev08-j1n1,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev08-j1n1/dev08-j1n1.vmx,[FREENAS SSD] dev08-j1n1/dev08-j1n1.vmdk
+dev08-j1n2,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] dev08-j1n2/dev08-j1n2.vmx,[SAN_Storage] dev08-j1n2/dev08-j1n2.vmdk
+DEV08-j3n0,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] DEVTEST08/Biljana-1.vmx,[SAN_Storage] DEVTEST08/DEVTEST08.vmdk
+dev08-l1n1 (formerly j2n1),AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev08-j2n1/dev08-j2n1.vmx,[FREENAS SSD] dev08-j2n1/dev08-j2n1.vmdk
+dev08-l1n2 (formerly j2n2),AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev08-j2n2/dev08-j2n2.vmx,[FREENAS SSD] dev08-j2n2/dev08-j2n2.vmdk
+dev12-a1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] dev12-a1/dev12-a1.vmx,[SAN_Storage] dev12-a1/dev12-a1_3.vmdk
+dev12-CORE,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] dev12-CORE/dev12-CORE.vmx,[SAN_Storage] dev12-CORE/dev12-CORE.vmdk
+dev12-j1n1,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev12-j1n1/dev12-j1n1.vmx,[FREENAS SSD] dev12-j1n1/dev12-j1n1.vmdk
+dev12-j1n2,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev12-j1n2/dev12-j1n2.vmx,[QNAP953] dev12-j1n2/dev12-j1n2_2.vmdk
+dev12-j1n2,AltaroProduction,Cluster,Hard disk 2,QNAP953,[QNAP953] dev12-j1n2/dev12-j1n2.vmx,[QNAP953] dev12-j1n2/dev12-j1n2_1.vmdk
+dev12-j2n1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev12-j2n1/dev12-j2n1.vmx,[QNAP953] dev12-j2n1/dev12-j2n1_4.vmdk
+dev12-j2n1,AltaroProduction,Cluster,Hard disk 2,QNAP953,[QNAP953] dev12-j2n1/dev12-j2n1.vmx,[QNAP953] dev12-j2n1/dev12-j2n1_1.vmdk
+dev12-j2n1,AltaroProduction,Cluster,Hard disk 3,QNAP953,[QNAP953] dev12-j2n1/dev12-j2n1.vmx,[QNAP953] dev12-j2n1/dev12-j2n1_2.vmdk
+dev12-j2n1,AltaroProduction,Cluster,Hard disk 4,QNAP953,[QNAP953] dev12-j2n1/dev12-j2n1.vmx,[QNAP953] dev12-j2n1/dev12-j2n1_3.vmdk
+dev12-j2n2,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev12-j2n2/dev12-j2n2.vmx,[FREENAS SSD] dev12-j2n2/dev12-j2n2.vmdk
+dev12-j2n2,AltaroProduction,Cluster,Hard disk 2,FREENAS HDD1.5,[FREENAS SSD] dev12-j2n2/dev12-j2n2.vmx,[FREENAS HDD1.5] dev12-j2n2/dev12-j2n2.vmdk
+dev12-j3n1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev12-j3n1/dev12-j3n1.vmx,[QNAP953] dev12-j3n1/dev12-j3n1.vmdk
+dev12-j3n2,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev12-j3n2/dev12-j3n2.vmx,[QNAP953] dev12-j3n2/dev12-j3n2.vmdk
+dev12-l1n1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev12-l1n1/dev12-l1n1.vmx,[QNAP953] dev12-l1n1/dev12-l1n1.vmdk
+dev12-l1n2,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev12-l1n2/dev12-l1n2.vmx,[QNAP953] dev12-l1n2/dev12-l1n2.vmdk
+dev12-l2n1,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev12-l2n1/dev12-l2n1.vmx,[FREENAS SSD] dev12-l2n1/dev12-l2n1.vmdk
+dev12-l2n2,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev12-l2n2/dev12-l2n2.vmx,[FREENAS SSD] dev12-l2n2/dev12-l2n2.vmdk
+dev16-j1n1,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev16-j1n1/dev16-j1n1.vmx,[FREENAS SSD] dev16-j1n1/dev16-j1n1.vmdk
+dev16-j1n2,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev16-j1n2/dev16-j1n2.vmx,[FREENAS SSD] dev16-j1n2/dev16-j1n2.vmdk
+Dev16-j3n0,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] Dev16-j3n0/Dev16-j3n0.vmx,[QNAP953] Dev16-j3n0/Dev16-j3n0.vmdk
+dev16-l1n1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev16-l1n1/dev16-l1n1.vmx,[QNAP953] dev16-l1n1/dev16-l1n1.vmdk
+dev16-l1n2,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev16-l1n2/dev16-l1n2.vmx,[QNAP953] dev16-l1n2/dev16-l1n2.vmdk
+dev16-l3-n1,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev16l3-n1/dev16l3-n1.vmx,[FREENAS SSD] dev16l3-n1/dev16l3-n1.vmdk
+dev16-l3n2,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] dev16-l3n2/dev16-l3n2.vmx,[FREENAS SSD] dev16-l3n2/dev16-l3n2.vmdk
+dev55-j1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] dev55-j1/dev55-j1.vmx,[FREENAS HDD1.5] dev55-j1/dev55-j1.vmdk
+dev55-l1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] dev55-l1/dev55-l1.vmx,[FREENAS HDD1.5] dev55-l1/dev55-l1.vmdk
+dev55-l1,AltaroProduction,Cluster,Hard disk 2,FREENAS HDD1.5,[FREENAS HDD1.5] dev55-l1/dev55-l1.vmx,[FREENAS HDD1.5] dev55-l1/dev55-l1_1.vmdk
+dev60-j1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] dev60-j1/dev60-j1.vmx,[FREENAS HDD1.5] dev60-j1/dev60-j1.vmdk
+dev60-l1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] dev60-l1/dev60-l1.vmx,[FREENAS HDD1.5] dev60-l1/dev60-l1.vmdk
+dev65-j1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] dev65-j1/dev65-j1.vmx,[FREENAS HDD1.5] dev65-j1/dev65-j1.vmdk
+dev65-l1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] dev65-l1/dev65-l1.vmx,[QNAP953] dev65-l1/dev65-l1.vmdk
+DevBilling,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] DevBilling/DevBilling.vmx,[SAN_Storage] DevBilling/DevBilling.vmdk
+DEVTEST2012R2 - 17.66,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] DEVTEST2012R2 - 17.66/DEVTEST2012R2 - 17.66.vmx,[SAN_Storage] DEVTEST2012R2 - 17.66/DEVTEST2012R2 - 17.66_3.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 10,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_9.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 11,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_10.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 12,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_11.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_1.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 3,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_2.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 4,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_3.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 5,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_4.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 6,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_5.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 7,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_6.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 8,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_7.vmdk
+DevTestVC.hyper.altaro.corp,AltaroProduction,Cluster,Hard disk 9,SAN_Storage,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp.vmx,[SAN_Storage] DevTestVC.hyper.altaro.corp/DevTestVC.hyper.altaro.corp_8.vmdk
+dev-VC55-j1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] dev-VC55-j1_1/dev-VC55-j1.vmx,[SAN_Storage] dev-VC55-j1_1/dev-VC55-j1.vmdk
+dev-VC55-j1,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] dev-VC55-j1_1/dev-VC55-j1.vmx,[SAN_Storage] dev-VC55-j1_1/dev-VC55-j1_1.vmdk
+dev-VC55-l1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] dev-VC55-l1/dev-VC55-l1.vmx,[SAN_Storage] dev-VC55-l1/dev-VC55-l1.vmdk
+dev-VC55-l1,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] dev-VC55-l1/dev-VC55-l1.vmx,[SAN_Storage] dev-VC55-l1/dev-VC55-l1_1.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 10,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_9.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 11,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_10.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 2,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_1.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 3,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_2.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 4,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_3.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 5,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_4.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 6,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_5.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 7,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_6.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 8,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_7.vmdk
+dev-vc60-j1,AltaroProduction,Cluster,Hard disk 9,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1.vmx,[FREENAS HDD1.5] dev-vc60-j1/dev-vc60-j1_8.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 10,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_9-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 11,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_10-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 2,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_1-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 3,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_2-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 4,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_3-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 5,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_4-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 6,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_5-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 7,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_6-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 8,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_7-000001.vmdk
+dev-vc60-l1,AltaroProduction,Cluster,Hard disk 9,FREENAS HDD1.5,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1.vmx,[FREENAS HDD1.5] dev-vc60-l1/dev-vc60-l1_8-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 10,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_9-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 11,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_10-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 12,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_11-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_1-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 3,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_2-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 4,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_3-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 5,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_4-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 6,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_5-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 7,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_6-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 8,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_7-000001.vmdk
+dev-VC65-j1,AltaroProduction,Cluster,Hard disk 9,SAN_Storage,[SAN_Storage] dev-VC65-j1/dev-VC65-j1.vmx,[SAN_Storage] dev-VC65-j1/dev-VC65-j1_8-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 10,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_9-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 11,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_10-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 12,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_11-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_1-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 3,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_2-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 4,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_3-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 5,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_4-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 6,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_5-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 7,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_6-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 8,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_7-000001.vmdk
+dev-VC65-l1,AltaroProduction,Cluster,Hard disk 9,SAN_Storage,[SAN_Storage] dev-VC65-l1/dev-VC65-l1.vmx,[SAN_Storage] dev-VC65-l1/dev-VC65-l1_8-000001.vmdk
+devXP-a1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] devXP-a1/devXP-a1.vmx,[QNAP953] devXP-a1/devXP-a1.vmdk
+JUL-CLUSA-N1,AltaroProduction,Cluster,Hard disk 1,16.120 Secondary Datastore,[16.120 Secondary Datastore] JUL-CLUSA-N1/JUL-CLUSA-N1.vmx,[16.120 Secondary Datastore] JUL-CLUSA-N1/JUL-CLUSA-N1_3.vmdk
+JUL-CLUSA-N2,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] JUL-CLUSA-N2/JUL-CLUSA-N2.vmx,[SAN_Storage] JUL-CLUSA-N2/JUL-CLUSA-N2_3.vmdk
+JUL-CLUSA-STORAGE,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] JUL-CLUSA-STORAGE/JUL-CLUSA-STORAGE.vmx,[SAN_Storage] JUL-CLUSA-STORAGE/JUL-CLUSA-STORAGE_3.vmdk
+Mcassar1 - 192.168.16.79,AltaroProduction,Cluster,Hard disk 1,16.120 Main Datastore,[16.120 Main Datastore] MCASSAR-1/MCASSAR-1.vmx,[16.120 Main Datastore] MCASSAR-1/MCASSAR-1.vmdk
+Mcassar1 - 192.168.16.79,AltaroProduction,Cluster,Hard disk 2,16.120 Main Datastore,[16.120 Main Datastore] MCASSAR-1/MCASSAR-1.vmx,[16.120 Main Datastore] MCASSAR-1/MCASSAR-1_1.vmdk
+SIM-CLUSA-N1,AltaroProduction,Cluster,Hard disk 1,16.120 Secondary Datastore,[16.120 Secondary Datastore] SIM-CLUSA-N1/SIM-CLUSA-N1.vmx,[16.120 Secondary Datastore] SIM-CLUSA-N1/SIM-CLUSA-N1_3.vmdk
+SIM-CLUSA-N1,AltaroProduction,Cluster,Hard disk 2,16.120 Secondary Datastore,[16.120 Secondary Datastore] SIM-CLUSA-N1/SIM-CLUSA-N1.vmx,[16.120 Secondary Datastore] SIM-CLUSA-N1/SIM-CLUSA-N1.vmdk
+SIM-CLUSA-N2,AltaroProduction,Cluster,Hard disk 1,16.120 Secondary Datastore,[16.120 Secondary Datastore] SIM-CLUSA-N2/SIM-CLUSA-N2.vmx,[16.120 Secondary Datastore] SIM-CLUSA-N2/SIM-CLUSA-N2_3.vmdk
+SIM-CLUSA-STORAGE,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] SIM-CLUSA-STORAGE/SIM-CLUSA-STORAGE.vmx,[SAN_Storage] SIM-CLUSA-STORAGE/SIM-CLUSA-STORAGE_3.vmdk
+SIMON-N1,AltaroProduction,Cluster,Hard disk 1,16.120 Main Datastore,[16.120 Main Datastore] ACAMILLERI-1/ACAMILLERI-1.vmx,[16.120 Main Datastore] ACAMILLERI-1/ACAMILLERI-1.vmdk
+SIMON-N1,AltaroProduction,Cluster,Hard disk 2,16.120 Main Datastore,[16.120 Main Datastore] ACAMILLERI-1/ACAMILLERI-1.vmx,[16.120 Main Datastore] ACAMILLERI-1/ACAMILLERI-1_1.vmdk
+StephenCB - Product test,AltaroProduction,Cluster,Hard disk 1,16.120 Main Datastore,[16.120 Main Datastore] Win 2012 R2 %2f Datacenter w HV Role/Win 2012 R2 %2f Datacenter w HV Role.vmx,[16.120 Main Datastore] Win 2012 R2 %2f Datacenter w HV Role/Win 2012 R2 %2f Datacenter w HV Role.vmdk
+sup esx 5.5 16.108,AltaroProduction,Cluster,Hard disk 1,16.120 Main Datastore,[16.120 Main Datastore] VMWare 5.5 (Support)/VMWare 5.5 (Support).vmx,[16.120 Main Datastore] VMWare 5.5 (Support)/VMWare 5.5 (Support).vmdk
+sup esx 5.5 16.178,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] sup esx 5.5 16.178/sup esx 5.5 16.178.vmx,[SAN_Storage] sup esx 5.5 16.178/sup esx 5.5 16.178.vmdk
+sup esx 5.5 16.179,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] sup esx 5.5 16.179/sup esx 5.5 16.179.vmx,[SAN_Storage] sup esx 5.5 16.179/sup esx 5.5 16.179.vmdk
+Sup16-ea1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] Sup16-ea1/Sup16-ea1.vmx,[FREENAS HDD1.5] Sup16-ea1/Sup16-ea1.vmdk
+sup16-ic1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] sup16-ic1/sup16-ic1.vmx,[QNAP953] sup16-ic1/sup16-ic1.vmdk
+sup16-ic1,AltaroProduction,Cluster,Hard disk 2,QNAP953,[QNAP953] sup16-ic1/sup16-ic1.vmx,[QNAP953] sup16-ic1/sup16-ic1_1.vmdk
+sup16-jd1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] sup16-jd1/sup16-jd1.vmx,[SAN_Storage] sup16-jd1/sup16-jd1_2.vmdk
+sup16-jd1,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] sup16-jd1/sup16-jd1.vmx,[SAN_Storage] sup16-jd1/sup16-jd1_1.vmdk
+sup16-jg1,AltaroProduction,Cluster,Hard disk 1,FREENAS SSD,[FREENAS SSD] sup16-jg1/sup16-jg1.vmx,[FREENAS SSD] sup16-jg1/sup16-jg1.vmdk
+sup16-mb1,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] sup16-mb1/sup16-mb1.vmx,[QNAP953] sup16-mb1/sup16-mb1.vmdk
+Sup16-MS1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] Sup16-MS1/Sup16-MS1.vmx,[SAN_Storage] Sup16-MS1/Sup16-MS1_2-000001.vmdk
+Sup16-MS1,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] Sup16-MS1/Sup16-MS1.vmx,[SAN_Storage] Sup16-MS1/Sup16-MS1_1-000001.vmdk
+Sup16-nm1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] Sup16-nm1/Sup16-nm1.vmx,[FREENAS HDD1.5] Sup16-nm1/Sup16-nm1-000001.vmdk
+Sup16-vn1,AltaroProduction,Cluster,Hard disk 1,FREENAS HDD1.5,[FREENAS HDD1.5] Sup16-vn1/Sup16-vn1.vmx,[FREENAS HDD1.5] Sup16-vn1/Sup16-vn1.vmdk
+sup65-1,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] sup65-1/sup65-1.vmx,[SAN_Storage] sup65-1/sup65-1.vmdk
+sup65-2,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] sup65-2/sup65-2.vmx,[SAN_Storage] sup65-2/sup65-2.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 10,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_9.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 11,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_10.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 12,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_11.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_1.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 3,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_2.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 4,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_3.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 5,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_4.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 6,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_5.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 7,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_6.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 8,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_7.vmdk
+supvc65-2,AltaroProduction,Cluster,Hard disk 9,SAN_Storage,[SAN_Storage] supvc65-2/supvc65-2.vmx,[SAN_Storage] supvc65-2/supvc65-2_8.vmdk
+Test2016DEV,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] Test2016DEV/Test2016DEV.vmx,[SAN_Storage] Test2016DEV/Test2016DEV.vmdk
+TSUPP-1 || 2012 | Matthew AgiusMuscat | 192.168.16.90,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] TSUPP-1 __ 2012 _ Matthew AgiusMuscat _ 192.168.16.90/TSUPP-1 __ 2012 _ Matthew AgiusMuscat _ 192.168.16.90.vmx,[QNAP953] TSUPP-1 __ 2012 _ Matthew AgiusMuscat _ 192.168.16.90/TSUPP-1 __ 2012 _ Matthew AgiusMuscat _ 192.168.16.90_3.vmdk
+TSUPP-2 | 2008 R2 | Shared | 192.168.16.91,AltaroProduction,Cluster,Hard disk 1,16.120 Main Datastore,[16.120 Main Datastore] TSUPP-2/TSUPP-2.vmx,[16.120 Main Datastore] TSUPP-2/TSUPP-2.vmdk
+TSUPP-3 | 2012 | Marlon | 192.168.16.92,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] TSUPP-3 _ 2012 _ Marlon _ 192.168.16.92/TSUPP-3 _ 2012 _ Marlon _ 192.168.16.92.vmx,[QNAP953] TSUPP-3 _ 2012 _ Marlon _ 192.168.16.92/TSUPP-3 _ 2012 _ Marlon _ 192.168.16.92.vmdk
+TSUPP-4 | 2012 R2 | Matt | 192.168.16.93,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93/TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93.vmx,[SAN_Storage] TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93/TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93_1.vmdk
+TSUPP-4 | 2012 R2 | Matt | 192.168.16.93,AltaroProduction,Cluster,Hard disk 2,SAN_Storage,[SAN_Storage] TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93/TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93.vmx,[SAN_Storage] TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93/TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93.vmdk
+TSUPP-4 | 2012 R2 | Matt | 192.168.16.93,AltaroProduction,Cluster,Hard disk 3,SAN_Storage,[SAN_Storage] TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93/TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93.vmx,[SAN_Storage] TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93/TSUPP-4 _ 2012 R2 _ Matt _ 192.168.16.93_2.vmdk
+TSUPP-6 | 2012 R2 | Justin | 192.168.16.173,AltaroProduction,Cluster,Hard disk 1,QNAP953,[QNAP953] TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173/TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173.vmx,[QNAP953] TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173/TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173_1.vmdk
+TSUPP-6 | 2012 R2 | Justin | 192.168.16.173,AltaroProduction,Cluster,Hard disk 2,QNAP953,[QNAP953] TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173/TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173.vmx,[QNAP953] TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173/TSUPP-6 _ 2012 R2 _ Justin _ 192.168.16.173.vmdk
+VMware 5.5 (Simon),AltaroProduction,Cluster,Hard disk 1,16.120 Main Datastore,[16.120 Main Datastore] VMware 5.5 (Simon)/VMware 5.5 (Simon).vmx,[16.120 Main Datastore] VMware 5.5 (Simon)/VMware 5.5 (Simon).vmdk
+VS2012,AltaroProduction,Cluster,Hard disk 1,SAN_Storage,[SAN_Storage] VS2012/VS2012.vmx,[SAN_Storage] VS2012/VS2012.vmdk
