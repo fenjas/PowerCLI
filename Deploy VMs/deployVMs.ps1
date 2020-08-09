@@ -1,7 +1,7 @@
 #Define vCenter Server vars
  $VIServer = "192.168.32.239"
  $VIUser = "administrator"
- $VIPass = "5tgb%TGB"
+ $VIPass = "5********"
  $datastoreCluster = "DatastoreCluster"
   
  $IPMask = "255.255.240.0"
