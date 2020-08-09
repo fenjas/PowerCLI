@@ -5,7 +5,7 @@ Import-Module VMware.VimAutomation.Core
 Try
 {
 	Write-Output "Connecting to vCenter Server 192.168.32.239"
-	$conn = connect-viserver 192.168.32.239 -User administrator -Password 5tgb%TGB
+	$conn = connect-viserver 192.168.32.239 -User administrator -Password *********
 	if (!$conn.IsConnected) 
 	{
 	 Write-Output "Failed to connect! Exiting"
